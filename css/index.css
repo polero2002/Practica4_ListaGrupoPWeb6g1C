@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+
+#header {
+    background-color: #00425A;
+
+    color: white;
+    text-align: center;
+    padding: 40px;
+    align-items: center;
+
+    left: 0;
+    top: 0;
+    right: 0;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-sizing: border-box;
+
+}
+    #pie {
+        width: 100%;
+        background: #FC7300;
+        padding: 3rem 0;
+        text-align: center;
+        margin-right: 6rem;
+        transition: 0.7s linear;
+        position: absolute;
+        color: white;
+        font-size: large;
+    }
+    body{
+        background-color: #393053;
+    }
+    
+    #body2 {
+        color: white;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-style: bold;
+        text-align: center;
+        width: auto;
+        margin: 0 auto;
+        margin: 50px;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        background-color: #1F8A70;
+        border-radius: 10px; 
+        padding-bottom: 40px;
+        align-items: center;
+    }
+
